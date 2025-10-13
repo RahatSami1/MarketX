@@ -1,6 +1,4 @@
 
-<img width="3235" height="2222" alt="logo" src="https://github.com/user-attachments/assets/c2485e5a-36fb-48d3-b9b3-5e8347acb7d4" />
-
 **marketX** is a feature-rich, full-fledged **React Native Expo** mobile application built for tracking stock markets, managing personalized watchlists, viewing real-time data, and reading financial news—all through a clean and responsive user interface.
 
 Designed with performance, scalability, and user experience in mind, marketX leverages powerful frontend technologies and integrates with a RESTful backend for seamless interaction.
@@ -132,14 +130,6 @@ marketX uses a **REST API backend** for authentication, stock data, news, and us
 
 ---
 
-## 📸 Screenshots
-
-
-<img width="393" height="852" alt="Screen 1" src="https://github.com/user-attachments/assets/7bd77c41-7520-40aa-88e3-fbc02a25d797" />
-
-<img width="393" height="852" alt="Sign in" src="https://github.com/user-attachments/assets/867ab0e1-d6fb-458c-aeeb-2a5af1ee51ec" />
-
----
 
 ## 📄 License
 
