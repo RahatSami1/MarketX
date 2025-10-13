@@ -1,6 +1,4 @@
 
-<img width="3235" height="2222" alt="logo" src="https://github.com/user-attachments/assets/c2485e5a-36fb-48d3-b9b3-5e8347acb7d4" />
-
 **marketX** is a powerful, feature-packed **Next.js** web application designed for real-time stock market tracking, personalized watchlists, live data updates, and the latest financial news. Built with **TypeScript** and **Zustand** for state management, it provides a smooth and responsive experience with scalable frontend architecture and seamless backend integration.
 
 ---
@@ -135,13 +133,6 @@ marketX web integrates with a secure **REST API backend** for:
 * Watchlist and portfolio endpoints
 
 All API interactions are handled via Axios services inside `/services`.
-
----
-
-## 📸 Screenshots
-
-
-<img width="1913" height="851" alt="Screenshot 2025-08-05 174936" src="https://github.com/user-attachments/assets/8116f383-e33b-4ae4-b480-22fc8f48a839" />
 
 ---
 
